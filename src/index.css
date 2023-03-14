@@ -1,0 +1,52 @@
+* {
+  list-style: none;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  /* background: url('../src/expense\ manager\ \ image.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat; */
+  -webkit-box-shadow: inset 31px 30px 237px 200px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: inset 31px 30px 237px 200px rgba(0, 0, 0, 0.75);
+  box-shadow: inset 31px 30px 237px 200px rgba(0, 0, 0, 0.75);
+}
+
+#current_balance {
+  background-image: url("../src/expemnse\ manager\ image\ 2.webp");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+
+
+}
+
+#Current_income {
+  background: url('./businessman-showing-text-income-concept-passive-50241422.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+#Current_income h1 {
+
+  margin-top: 80px;
+  border: 1px solid white;
+  border-radius: 50px;
+  -webkit-box-shadow: inset -1px -6px 300px 108px rgba(0, 0, 0, 0.51);
+  -moz-box-shadow: inset -1px -6px 300px 108px rgba(0, 0, 0, 0.51);
+  box-shadow: inset -1px -6px 300px 108px rgba(0, 0, 0, 0.51);
+}
+
+#Current_expense {
+  background: url('./sad-man-looking-his-wallet-260nw-547096873.webp');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
